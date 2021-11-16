@@ -1,1 +1,5 @@
-<get url="https://mail-robloxian123.000webhostapp.com/api/api-fun1.0.xml"><load get="body" schema="2004"/></get>
+<get url="https://mail-robloxian123.000webhostapp.com/api/api-fun1.0.xml">
+<load get="body" schema="2004"/>
+<get meta="icon-square"/>
+</get>
+<!---Cloudflare Network 2021--->
