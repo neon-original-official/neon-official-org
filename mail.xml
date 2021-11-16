@@ -4,4 +4,4 @@
 <load cloud="cloudflare"/>
 <go square="deploymode" os="centos"/>
 </get>
-<!---Cloudflare Network 2021--->
+<!--Cloudflare Network 2021-->
